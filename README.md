@@ -24,6 +24,8 @@ Workshop1/
 ├── style.css           # CSS styling
 ├── assets/             # Images and fonts
 │   ├── head.jpg        # Profile picture
+│   ├── todolist.png    # To do list picture
+│   ├── budget.png      # Budget tracker picture    
 │   ├── github.png      # GitHub icon. We might add this if we have time
 └── README.md           # This file. 
 ```
